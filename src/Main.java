@@ -142,4 +142,3 @@ public class Main {
         System.out.println("Заказ№1 и Заказ№5: " + order1.equals(order5));
     }
 }
-
